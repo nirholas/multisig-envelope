@@ -1,0 +1,11 @@
+{
+  "slug": "multisig-envelope",
+  "name": "Multisig Envelope",
+  "kind": "crypto",
+  "description": "Estimate nested multisig signer and instruction overhead inside the larger envelope.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
