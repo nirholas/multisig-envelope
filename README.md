@@ -1,5 +1,10 @@
 # Multisig Envelope
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/multisig-envelope?style=flat&logo=github)](https://github.com/nirholas/multisig-envelope/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/multisig-envelope?style=flat)](https://github.com/nirholas/multisig-envelope/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/multisig-envelope/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/multisig-envelope/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Estimate nested multisig signer and instruction overhead inside the larger envelope.
 
 ## Why this exists
@@ -47,3 +52,26 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/multisig-envelope&type=Date)](https://www.star-history.com/#nirholas/multisig-envelope&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If multisig-envelope saves you time, **[star it on GitHub](https://github.com/nirholas/multisig-envelope)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=multisig-envelope%3A%20Estimate%20nested%20multisig%20signer%20and%20instruction%20overhead%20inside%20the%20larger%20envelope&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmultisig-envelope) · [Share on Bluesky](https://bsky.app/intent/compose?text=multisig-envelope%3A%20Estimate%20nested%20multisig%20signer%20and%20instruction%20overhead%20inside%20the%20larger%20envelope%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fmultisig-envelope) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmultisig-envelope) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmultisig-envelope&t=multisig-envelope%3A%20Estimate%20nested%20multisig%20signer%20and%20instruction%20overhead%20inside%20the%20larger%20envelope) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmultisig-envelope&title=multisig-envelope%3A%20Estimate%20nested%20multisig%20signer%20and%20instruction%20overhead%20inside%20the%20larger%20envelope)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/multisig-envelope` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/multisig-envelope/issues) or [start a discussion](https://github.com/nirholas/multisig-envelope/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/multisig-envelope)](https://github.com/nirholas/multisig-envelope/graphs/contributors)
+
+<!-- /three.ws:growth -->
