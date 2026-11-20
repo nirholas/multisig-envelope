@@ -8,7 +8,7 @@ Estimate nested multisig signer and instruction overhead inside the larger envel
 
 - Source: https://github.com/nirholas/multisig-envelope
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
